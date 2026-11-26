@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3360-stone-removal-game](https://github.com/Pushpendra51/DSA-repo/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Pushpendra51/DSA-repo/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Pushpendra51/DSA-repo/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/Pushpendra51/DSA-repo/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
